@@ -3,4 +3,5 @@ testName: AzureGitSampleProject
 testPlan: AZ_JpetStore.jmx
 description: 'AzureGitSampleProject'
 engineInstances: 1
-configurationFiles:JpetStoreLoginCredentials.txt
+configurationFiles:
+- JpetStoreLoginCredentials.txt
