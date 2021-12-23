@@ -1,6 +1,6 @@
 version: v0.1
 testName: AzureGitSampleProject
-testPlan: AZ_JpetStore.jmx
+testPlan: AZ_CSVJpetstore.jmx
 description: 'AzureGitSampleProject'
 engineInstances: 1
 configurationFiles:
