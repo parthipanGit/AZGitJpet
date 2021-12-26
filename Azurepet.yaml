@@ -4,4 +4,4 @@ testPlan: AZ_CSVJpetstore.jmx
 description: 'AzureGitSampleProject'
 engineInstances: 1
 configurationFiles:
-- JpetStoreLoginCredentials.txt
+- JpetstoreCredentials.csv
